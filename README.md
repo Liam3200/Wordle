@@ -7,4 +7,4 @@ The main project folder, CTIS210FinalProject, is the project taken directly from
 
 I also included a .zip file if someone wants to download the project
 
-.jar file coming soon...
+JAR file now avalible if someone wants to run the game with downloading the project files
