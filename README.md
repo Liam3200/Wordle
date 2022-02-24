@@ -6,3 +6,5 @@ Feel free to use the code or project to play or add to the code, or even take in
 The main project folder, CTIS210FinalProject, is the project taken directly from netBeans, and contains all the project files.
 
 I also included a .zip file if someone wants to download the project
+
+.jar file coming soon...
