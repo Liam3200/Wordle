@@ -12,3 +12,6 @@ Wordle 0.4
 
 Wordle 0.5
 - fixed a bug with the answer streak and high score not displaying properly
+
+Wordle 0.6
+- added code to make sure the user does not get the same word twice in an instance of the game
