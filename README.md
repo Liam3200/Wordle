@@ -7,4 +7,4 @@ The src project folder holds the source code and other files used in the project
 
 I also included a .zip file if someone wants to download the project
 
-JAR file now avalible if someone wants to run the game with downloading the project files
+JAR file now avalible if someone wants to run the game without downloading the project files
