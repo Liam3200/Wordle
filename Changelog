@@ -15,3 +15,8 @@ Wordle 0.5
 
 Wordle 0.6
 - added code to make sure the user does not get the same word twice in an instance of the game
+
+Wordle 0.7
+- added new definition feature using a dictionary API!!!
+- Changed code to make creating a new game more effiecent
+- Fixed a bug where capital letters were not being read as correct
