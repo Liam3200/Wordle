@@ -20,3 +20,7 @@ Wordle 0.7
 - added new definition feature using a dictionary API!!!
 - Changed code to make creating a new game more effiecent
 - Fixed a bug where capital letters were not being read as correct
+
+Wordle 0.8
+- fixed lag when call to dictionary first time launching
+- reduced the number of definitions shown to reduce overcrowding and squishing of the definitions
